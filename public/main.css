@@ -1,0 +1,11 @@
+#main-map {
+  height: 50vw;
+  width: 50vw;
+}
+
+#take-to-edinburgh {
+  text-align: center;
+  background-color: blue;
+  padding: 1rem;
+  max-width: 30vw;
+}
